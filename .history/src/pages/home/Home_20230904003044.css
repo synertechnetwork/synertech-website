@@ -1,0 +1,11 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.home-container {
+  background-color: black;
+  color: whitesmoke;
+  padding: 0.7rem;
+  border-radius: 7px;
+}
