@@ -1,0 +1,8 @@
+import React from "react";
+import "../home/Home.css";
+
+const Home = () => {
+  return <div className="text-6xl">Welcome to Synertech Network Website</div>;
+};
+
+export default Home;
